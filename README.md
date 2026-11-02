@@ -1,6 +1,6 @@
 # 🛒 Online Shopper Purchase Prediction – ML Assignment 2
 
-**Live Streamlit app:** `h`
+**Live Streamlit app:** `https://ml-assignment-2-h6biaoxgu8x7gaycu3ecsh.streamlit.app/`
 
 ## a. Problem Statement
 
